@@ -1,4 +1,4 @@
-## SUMMARY OF CHAPTERS 01, 02, AND 03 OF THE BOOK "DESIGNING MACHINE LEARNING SYSTEMS" BY CHIP HUYEN
+## Summary of three first chapters of the book "Designing Machine Learning Systems" by Chip Huyen
 
 In the current context of technological evolution, Machine Learning (ML) systems have become indispensable across various sectors. Despite the frequent acknowledgment of their success and efficacy, the challenges and considerations involved in their design often remain unaddressed. Thus, "Designing Machine Learning Systems" by Chip Huyen fills this gap, particularly in its first three chapters, by questioning the perception of ML systems as complete and infallible solutions and underscoring the necessity for an iterative and adaptable approach in their development.
 
