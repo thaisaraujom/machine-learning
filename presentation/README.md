@@ -7,18 +7,18 @@ Slides presented as part of the assignment for the course *Machine Learning*. Th
 The slides cover the following topics:
 
 - **Vanishing Gradients:**
-  - The problem of vanishing gradients in deep networks.
-  - Weight initialization techniques.
+  - The problem of vanishing gradients in deep networks;
+  - Weight initialization techniques;
   - Batch normalization as a solution.
 
 - **Exploding Gradients:**
-  - The problem of exploding gradients during backpropagation.
-  - Gradient clipping techniques.
+  - The problem of exploding gradients during backpropagation;
+  - Gradient clipping techniques;
   - Comparison between value clipping and norm clipping.
 
 ## Presentation
 
-You can access the slides by clicking [here](github.com/thaisaraujom/machine-learning/tree/main/presentation/vanishing_and_exploding_gradients.pdf).
+You can access the slides by clicking [here](https://github.com/thaisaraujom/machine-learning/blob/main/presentation/vanishing_and_exploding_gradients.pdf).
 
 ## Authors
 
